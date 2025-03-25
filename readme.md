@@ -10,6 +10,7 @@ Welcome to the **Python Basics** repository! This repository contains a collecti
 - Lists
 - Loops
 - Tuples
+- If - Else
 
 ---
 
