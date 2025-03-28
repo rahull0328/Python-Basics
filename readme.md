@@ -12,6 +12,7 @@ Welcome to the **Python Basics** repository! This repository contains a collecti
 - Tuples
 - If - Else
 - Dictionary
+- Set
 
 ---
 
