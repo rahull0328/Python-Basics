@@ -14,6 +14,7 @@ Welcome to the **Python Basics** repository! This repository contains a collecti
 - Dictionary
 - Set
 - Date-Time
+- Regular Expressions
 
 ---
 
