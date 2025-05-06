@@ -35,9 +35,16 @@ python filename.py
 
 ---
 
-## 💡 Contributing
-Want to contribute? Feel free to fork this repository and submit a pull request with new programs or improvements!
+## 🤝 Contributing
+
+If you'd like to add a new topic or improve existing code:
+
+- 🍴 Fork this repository
+
+- 👨‍💻 Make your changes
+
+- 📬 Submit a pull request
 
 ---
 
-🚀 Happy Coding! 🎯
+#### 🚀 Happy Coding! 🎯
